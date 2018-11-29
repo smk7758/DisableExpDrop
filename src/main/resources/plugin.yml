@@ -1,0 +1,8 @@
+name: DisableExpDrop
+main: com.github.smk7758.DisableExpDrop.Main
+version: 0.0.1
+author: smk7758
+permissions:
+commands:
+  DisableExpDrop:
+    description: DisableExpDrop's command.
